@@ -13,7 +13,7 @@
 - **Database:** SQL Server
 
 ## Installation:
-1. Clone the repository: `git clone https://github.com/username/expense-tracker.git`
+1. Clone the repository: `https://github.com/bobkargit/Expence_Tracker.git`
 2. Install dependencies for Angular: `npm install`
 3. Run the backend: `dotnet run`
 4. Start the frontend: `ng serve`
